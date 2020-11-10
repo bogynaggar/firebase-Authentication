@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "116420464306",
+    "firebase_url": "https://emailpassauth-dc6b5.firebaseio.com",
+    "project_id": "emailpassauth-dc6b5",
+    "storage_bucket": "emailpassauth-dc6b5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116420464306:android:0bb9c7689c85030c5ac3ab",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116420464306-cr0cuub4vgnuifr7mcf7s0i1kgctgujq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8qvpdHBELWFj3UHu4NStxylmOXHEIiss"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "116420464306-cr0cuub4vgnuifr7mcf7s0i1kgctgujq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
